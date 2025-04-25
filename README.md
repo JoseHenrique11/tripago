@@ -51,9 +51,3 @@ Este projeto foi desenvolvido em dupla (Wallace Alves Gomes e Jose Henrique Gald
 - Trabalho em equipe, organização e depuração de erros
 
 ---
-
-## 📎 Como executar localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/tripago.git
